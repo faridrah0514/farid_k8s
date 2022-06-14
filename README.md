@@ -1,1 +1,3 @@
 # farid_k8s
+
+personal_auth_token = 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
