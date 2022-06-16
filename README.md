@@ -1,3 +1,4 @@
 # farid_k8s
 
-personal_auth_token = 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
+updated = 16-06-2022
+personal_auth_token = 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
